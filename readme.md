@@ -38,6 +38,7 @@ These should be enough to get you started.
 ## Tools
 
 - [Toolbx](https://github.com/containers/toolbox)
+- [libostree](https://github.com/ostreedev/ostree)
 - [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode)
 
 
