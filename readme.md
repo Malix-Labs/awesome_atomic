@@ -28,6 +28,8 @@ These should be enough to get you started.
 - [Can MicroOS Desktop be your Daily Driver?](https://www.youtube.com/watch?v=6F7iCntjWB8) - Dario Faggioli
 - [MicroOS Desktop: The Road to Daily Driving](https://www.youtube.com/watch?v=cZLckDUDYjw) - Richard Brown
 - [19 talks on Fedora Silverblue and related technologies](https://silverblue.fedoraproject.org/elsewhere) - many recorded talks here, too many to list here, but worth it! 
+- [ostree CLI for OS management](https://www.youtube.com/watch?v=B0xvrXkEwr4)
+- [Let's try Fedora Silverblue (https://www.youtube.com/watch?v=-hpV5l-gJnQ)
 
 ## Distributions
 
