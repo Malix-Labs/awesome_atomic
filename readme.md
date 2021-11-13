@@ -33,11 +33,12 @@ These should be enough to get you started.
 
 ## Distributions
 
-- [Fedora Silverblue](https://silverblue.fedoraproject.org/)
-- [openSUSE MicroOS](https://microos.opensuse.org/)
-- [nixos](https://nixos.org/)
-- [EndlessOS](https://endlessos.com/home/)
-- [rlxos](https://rlxos.dev/)
+- [Fedora Silverblue](https://silverblue.fedoraproject.org/) - Silverblue is a variant of Fedora Workstation. It looks, feels and behaves like a regular desktop operating system, and the experience is similar to what you find with using a standard Fedora Workstation.
+- [Fedora Kinoite](https://kinoite.fedoraproject.org/) - Similar to Silverblue, but based on KDE.
+- [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
+- [nixos](https://nixos.org/) - a Linux distribution based on Nix package manager
+- [EndlessOS](https://endlessos.com/home/) - A Debian derivative distribution with a read-only root filesystem managed by OSTree and Flatpak for application delivery and update
+- [rlxos](https://rlxos.dev/) - A immutable, independent general-purpose distribution with primary focus on single file per application.
 
 ## Tools
 
