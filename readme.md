@@ -8,7 +8,7 @@ This guide is for people looking for information on running image-based Linux di
 
 - [Blogs](#blogs)
 - [Talks](#talks)
-- [Dsitributions](#distributions)
+- [Distributions](#distributions)
 - [Tools](#tools)
 - [Tips](#tips)
 
@@ -23,8 +23,8 @@ These should be enough to get you started.
 
 ## Talks
 
-- [Kubic - openSUSEs Container Starship](https://speakerdeck.com/sysrich/kubic-opensuses-container-starship)
-- [openSUSE MicroOS](https://www.youtube.com/watch?v=nIwqzGbX-oc)
+- [Kubic - openSUSEs Container Starship](https://speakerdeck.com/sysrich/kubic-opensuses-container-starship) - Richard Brown
+- [openSUSE MicroOS](https://www.youtube.com/watch?v=nIwqzGbX-oc) - Richard Brown
 - [Can MicroOS Desktop be your Daily Driver?](https://www.youtube.com/watch?v=6F7iCntjWB8) - Dario Faggioli
 - [MicroOS Desktop: The Road to Daily Driving](https://www.youtube.com/watch?v=cZLckDUDYjw) - Richard Brown
 - [19 talks on Fedora Silverblue and related technologies](https://silverblue.fedoraproject.org/elsewhere) - many recorded talks here, too many to list here, but worth it! 
