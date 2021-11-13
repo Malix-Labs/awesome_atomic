@@ -34,13 +34,15 @@ These should be enough to get you started.
 - [Fedora Silverblue](https://silverblue.fedoraproject.org/)
 - [openSUSE MicroOS](https://microos.opensuse.org/)
 - [nixos](https://nixos.org/)
+- [EndlessOS](https://endlessos.com/home/)
 
 ## Tools
 
-- [Toolbx](https://github.com/containers/toolbox)
-- [libostree](https://github.com/ostreedev/ostree)
-- [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode)
-
+- [Toolbx](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux 
+- [libostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades 
+- [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) -  Toolbox Visual Studio Code integration 
+- [Endless OSTree Builder](https://github.com/dbnicholson/deb-ostree-builder) - Stripped down Endless ostree builder for debian 
+- [ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Fedora minimal sway developer desktop OSTree 
 
 ## Tips
 
