@@ -37,6 +37,7 @@ These should be enough to get you started.
 - [openSUSE MicroOS](https://microos.opensuse.org/)
 - [nixos](https://nixos.org/)
 - [EndlessOS](https://endlessos.com/home/)
+- [rlxos](https://rlxos.dev/)
 
 ## Tools
 
