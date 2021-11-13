@@ -55,4 +55,6 @@ These should be enough to get you started.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first. We need more nix resources so if you have good ones please consider PRing one
+Contributions welcome! Read the [contribution guidelines](contributing.md) first. We need more nix resources so if you have good ones please consider PRing one.
+
+If you don't know how to use git then file an issue and leave a link, I'll integrate it into the list!
