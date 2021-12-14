@@ -58,6 +58,7 @@ These should be enough to get you started.
 - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
 - :new: [osbuilder](https://www.osbuild.org/) - Build-Pipelines for Operating System Artifacts
   - :new: [How to: Image Builder + OSTree + Anaconda](https://www.osbuild.org/news/2020-06-01-how-to-ostree-anaconda.html)  
+  - :new: [osbuild user guide](https://www.osbuild.org/guides/user-guide/user-guide.html)
 
 ## Tips
 
