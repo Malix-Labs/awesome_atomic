@@ -47,6 +47,7 @@ These should be enough to get you started.
 ## Tools and other rando things that are worth looking at
 
 - [Toolbx](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux 
+- [Distrobox](https://github.com/89luca89/distrobox) - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker
 - [podman](https://podman.io/) - Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
   - :new: [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) - This neat extension lets you see what containers you have, start/stop/restart, pause, and shell into them right from the notification area.
   - :new: [Podman desktop companion](https://iongion.github.io/podman-desktop-companion/) - graphical management of your desktop containers
