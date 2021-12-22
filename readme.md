@@ -55,12 +55,20 @@ These should be enough to get you started.
 - [libostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades 
 - [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) -  Toolbox Visual Studio Code integration 
 - [Endless OSTree Builder](https://github.com/dbnicholson/deb-ostree-builder) - Stripped down Endless ostree builder for Debian 
-- [ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Fedora minimal sway developer desktop OSTree 
 - [Flatpak](https://flatpak.org/) - a utility for software deployment and package management for Linux. It is advertised as offering a sandbox environment in which users can run application software in isolation from the rest of the system.
 - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
 - :new: [osbuilder](https://www.osbuild.org/) - Build-Pipelines for Operating System Artifacts
   - :new: [How to: Image Builder + OSTree + Anaconda](https://www.osbuild.org/news/2020-06-01-how-to-ostree-anaconda.html)  
   - :new: [osbuild user guide](https://www.osbuild.org/guides/user-guide/user-guide.html)
+
+## Configs from the Community
+
+:new: If you're automating the config on systems like this please PR your config to share:
+
+- [zepyros-dev's config](https://github.com/zephyros-dev/silverblue-config)
+- [JayDoubleau's config (ansiblue)](https://github.com/JayDoubleu/ansiblue)
+- [castrojo's config (ublue)](https://github.com/castrojo/ublue)
+
 
 ## Tips
 
