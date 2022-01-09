@@ -70,6 +70,7 @@ These should be enough to get you started.
 - [zepyros-dev's config](https://github.com/zephyros-dev/silverblue-config)
 - [JayDoubleau's config (ansiblue)](https://github.com/JayDoubleu/ansiblue)
 - [castrojo's config (ublue)](https://github.com/castrojo/ublue)
+- [Sodalite: A Pantheon for Silverblue](https://github.com/electricduck/sodalite)
 
 
 ## Tips
