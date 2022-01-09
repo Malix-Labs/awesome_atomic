@@ -52,16 +52,16 @@ These should be enough to get you started.
 - [Toolbx](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux 
 - :new: [Distrobox](https://github.com/89luca89/distrobox) - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows. 
 - [podman](https://podman.io/) - Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
-  - :new: [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) - This neat extension lets you see what containers you have, start/stop/restart, pause, and shell into them right from the notification area.
-  - :new: [Podman desktop companion](https://iongion.github.io/podman-desktop-companion/) - graphical management of your desktop containers
+  - [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) - This neat extension lets you see what containers you have, start/stop/restart, pause, and shell into them right from the notification area.
+  - [Podman desktop companion](https://iongion.github.io/podman-desktop-companion/) - graphical management of your desktop containers
 - [libostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades 
 - [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) -  Toolbox Visual Studio Code integration 
 - [Endless OSTree Builder](https://github.com/dbnicholson/deb-ostree-builder) - Stripped down Endless ostree builder for Debian 
 - [Flatpak](https://flatpak.org/) - a utility for software deployment and package management for Linux. It is advertised as offering a sandbox environment in which users can run application software in isolation from the rest of the system.
 - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
-- :new: [osbuilder](https://www.osbuild.org/) - Build-Pipelines for Operating System Artifacts
-  - :new: [How to: Image Builder + OSTree + Anaconda](https://www.osbuild.org/news/2020-06-01-how-to-ostree-anaconda.html)  
-  - :new: [osbuild user guide](https://www.osbuild.org/guides/user-guide/user-guide.html)
+- [osbuilder](https://www.osbuild.org/) - Build-Pipelines for Operating System Artifacts
+  - [How to: Image Builder + OSTree + Anaconda](https://www.osbuild.org/news/2020-06-01-how-to-ostree-anaconda.html)  
+  - [osbuild user guide](https://www.osbuild.org/guides/user-guide/user-guide.html)
 
 ## Configs from the Community
 
@@ -70,7 +70,7 @@ These should be enough to get you started.
 - [zepyros-dev's config](https://github.com/zephyros-dev/silverblue-config)
 - [JayDoubleau's config (ansiblue)](https://github.com/JayDoubleu/ansiblue)
 - [castrojo's config (ublue)](https://github.com/castrojo/ublue)
-- [Sodalite: A Pantheon for Silverblue](https://github.com/electricduck/sodalite)
+- :new: [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
 
 
 ## Tips
