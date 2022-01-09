@@ -67,9 +67,10 @@ These should be enough to get you started.
 
 :new: If you're automating the config on systems like this please PR your config to share:
 
+- [ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Fedora minimal sway developer desktop
 - [zepyros-dev's config](https://github.com/zephyros-dev/silverblue-config)
 - [JayDoubleau's config (ansiblue)](https://github.com/JayDoubleu/ansiblue)
-- [castrojo's config (ublue)](https://github.com/castrojo/ublue)
+- [castrojo's config (ublue)](https://github.com/castrojo/ublue) - A familiar(ish) Ubuntu desktop for Fedora Silverblue. 
 - :new: [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
 
 
