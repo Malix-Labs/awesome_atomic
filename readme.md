@@ -65,6 +65,7 @@ These should be enough to get you started.
 - [zepyros-dev's config](https://github.com/zephyros-dev/silverblue-config)
 - [JayDoubleau's config (ansiblue)](https://github.com/JayDoubleu/ansiblue)
 - [castrojo's config (ublue)](https://github.com/castrojo/ublue) - A familiar(ish) Ubuntu desktop for Fedora Silverblue. 
+- :new: [ansible-silverblue](https://github.com/j1mc/ansible-silverblue) - Jim Campbell's ansible playbook for silverblue
 - :new: [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
 
 
