@@ -38,7 +38,7 @@ These should be enough to get you started.
 - [Guix System](https://guix.gnu.org/) - a Linux distribution based on the Guix package manager based on Nix
 - [EndlessOS](https://endlessos.com/home/) - A Debian derivative distribution with a read-only root filesystem managed by OSTree and Flatpak for application delivery and update
 - [rlxos](https://rlxos.dev/) - A immutable, independent general-purpose distribution with primary focus on single file per application.
-- :new: [CarbonOS](https://carbon.sh/) - An open operating system designed from the ground-up to be intuitive and robust. The [blog post](https://carbon.sh/blog/2021/11/25/release.html) explains the goals
+- :new: [carbonOS](https://carbon.sh/) - An open operating system designed from the ground-up to be intuitive and robust. The [blog post](https://carbon.sh/blog/2021/11/25/release.html) explains the goals
 
 ## Tools
 
