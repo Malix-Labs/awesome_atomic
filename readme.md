@@ -36,6 +36,7 @@ These should be enough to get you started.
 - [Fedora Kinoite](https://kinoite.fedoraproject.org/) - Similar to Silverblue, but based on KDE.
 - [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
 - [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
+  - :new: [awesome-nix](https://github.com/nix-community/awesome-nix) - A curated list of the best resources in the Nix community.
 - [Guix System](https://guix.gnu.org/) - a Linux distribution based on the Guix package manager based on Nix
 - [EndlessOS](https://endlessos.com/home/) - A Debian derivative distribution with a read-only root filesystem managed by OSTree and Flatpak for application delivery and update
 - [rlxos](https://rlxos.dev/) - A immutable, independent general-purpose distribution with primary focus on single file per application.
