@@ -62,9 +62,10 @@ These should be enough to get you started.
 
 ## Configs from the Community
 
-:new: If you're automating the config on systems like this please PR your config to share:
+If you're automating the config on systems like this please PR your config to share:
 
 - [ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Fedora minimal sway developer desktop
+- :new: [ostree-xfice-desktop](https://github.com/hyperreal64/ostree-xfice-desktop) - This is an rpm-ostree-based Fedora Xfce desktop.
 - [zepyros-dev's config](https://github.com/zephyros-dev/silverblue-config)
 - [JayDoubleau's config (ansiblue)](https://github.com/JayDoubleu/ansiblue)
 - [castrojo's config (ublue)](https://github.com/castrojo/ublue) - A familiar(ish) Ubuntu desktop for Fedora Silverblue. 
