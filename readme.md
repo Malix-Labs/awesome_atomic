@@ -59,6 +59,7 @@ These should be enough to get you started.
 - [osbuilder](https://www.osbuild.org/) - Build-Pipelines for Operating System Artifacts
   - [How to: Image Builder + OSTree + Anaconda](https://www.osbuild.org/news/2020-06-01-how-to-ostree-anaconda.html)  
   - [osbuild user guide](https://www.osbuild.org/guides/user-guide/user-guide.html)
+- [flatpak-ostree-dedup-stats.py](https://gist.github.com/powpingdone/001a46aa7db190b9c935f71c6091eb71) - script to show you how well the ostree deduplication is working, this one is neat
 
 ## Configs from the Community
 
