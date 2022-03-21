@@ -44,7 +44,9 @@ These should be enough to get you started.
 
 ## Tools
 
+- [nxbox](https://github.com/refi64/nsbox) - Pet container manager based on systemd-nspawn and supporting DBus and desktop files.
 - [Toolbx](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux 
+- [coretoolbox](https://github.com/cgwalters/coretoolbox) - Toolbx alternative in rust with a focus on container builds 
 - [Distrobox](https://github.com/89luca89/distrobox) - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
   - [Integrate VSCode and Distrobox](https://distrobox.privatedns.org/posts/integrate_vscode_distrobox.html) 
 - [silverblue-nix](https://gitlab.com/ahayzen/silverblue-nix) - Andrew Hayzen's steps for getting nix working on Fedora Silverblue. 
