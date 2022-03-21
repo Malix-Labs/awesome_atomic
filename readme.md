@@ -46,13 +46,14 @@ These should be enough to get you started.
 
 - [nxbox](https://github.com/refi64/nsbox) - Pet container manager based on systemd-nspawn and supporting DBus and desktop files.
 - [Toolbx](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux 
-- [coretoolbox](https://github.com/cgwalters/coretoolbox) - Toolbx alternative in rust with a focus on container builds 
+- [coretoolbox](https://github.com/cgwalters/coretoolbox) - Toolbx alternative in rust with a focus on container builds. (Older project, appears unmaintained, but if I don't include rust stuff people will get upset) 
 - [Distrobox](https://github.com/89luca89/distrobox) - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
   - [Integrate VSCode and Distrobox](https://distrobox.privatedns.org/posts/integrate_vscode_distrobox.html) 
 - [silverblue-nix](https://gitlab.com/ahayzen/silverblue-nix) - Andrew Hayzen's steps for getting nix working on Fedora Silverblue. 
 - [podman](https://podman.io/) - Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
   - [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) - This neat extension lets you see what containers you have, start/stop/restart, pause, and shell into them right from the notification area.
   - [Podman desktop companion](https://iongion.github.io/podman-desktop-companion/) - graphical management of your desktop containers
+  - [Symphony](https://github.com/marhkb/symphony) - a podman desktop application
 - [libostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades 
 - [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) -  Toolbox Visual Studio Code integration 
 - [Endless OSTree Builder](https://github.com/dbnicholson/deb-ostree-builder) - Stripped down Endless ostree builder for Debian 
@@ -68,12 +69,12 @@ These should be enough to get you started.
 If you're automating the config on systems like this please PR your config to share:
 
 - [ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Fedora minimal sway developer desktop
-- :new: [ostree-xfice-desktop](https://github.com/hyperreal64/ostree-xfice-desktop) - This is an rpm-ostree-based Fedora Xfce desktop.
+- [ostree-xfice-desktop](https://github.com/hyperreal64/ostree-xfice-desktop) - This is an rpm-ostree-based Fedora Xfce desktop.
 - [zepyros-dev's config](https://github.com/zephyros-dev/silverblue-config)
 - [JayDoubleau's config (ansiblue)](https://github.com/JayDoubleu/ansiblue)
 - [castrojo's config (ublue)](https://github.com/castrojo/ublue) - A familiar(ish) Ubuntu desktop for Fedora Silverblue. 
-- :new: [ansible-silverblue](https://github.com/j1mc/ansible-silverblue) - Jim Campbell's ansible playbook for silverblue
-- :new: [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
+- [ansible-silverblue](https://github.com/j1mc/ansible-silverblue) - Jim Campbell's ansible playbook for silverblue
+- [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
 
 
 ## Tips
