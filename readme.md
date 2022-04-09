@@ -96,6 +96,7 @@ aka. duct tape.
 OSTree based systems allow for composable derivative distributions.
 If you're automating the config on systems like this please PR your config to share:
 
+- [workstation-ostree-config](https://pagure.io/workstation-ostree-config) - Manifests for rpm-ostree based Fedora variants (start here!)
 - [ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Fedora minimal sway developer desktop
 - [ostree-xfice-desktop](https://github.com/hyperreal64/ostree-xfice-desktop) - This is an rpm-ostree-based Fedora Xfce desktop.
 - [zepyros-dev's config](https://github.com/zephyros-dev/silverblue-config)
