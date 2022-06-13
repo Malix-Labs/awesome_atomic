@@ -69,6 +69,7 @@ Things that are the building blocks for all the stuff we're talking about here.
 
 - [podman](https://podman.io/) - Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
   - [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) - This neat extension lets you see what containers you have, start/stop/restart, pause, and shell into them right from the notification area.
+  - [Podman Desktop](https://github.com/containers/podman-desktop) - Manage different container engines from a single UI and tray icon
   - [Podman desktop companion](https://iongion.github.io/podman-desktop-companion/) - graphical management of your desktop containers
   - [Pods](https://github.com/marhkb/pods) - a podman desktop application (formely known as Symfony)
 - [Flatpak](https://flatpak.org/) - a utility for software deployment and package management for Linux. It is advertised as offering a sandbox environment in which users can run application software in isolation from the rest of the system.
