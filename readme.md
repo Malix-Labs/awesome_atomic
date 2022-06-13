@@ -42,7 +42,7 @@ The Future is Now(tm), try one of these today!
 - [Fedora Kinoite](https://kinoite.fedoraproject.org/) - Similar to Silverblue, but based on KDE
 - [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
 - [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
-  - awesome-nix](https://github.com/nix-community/awesome-nix) - A curated list of the best resources in the Nix community
+  - [awesome-nix](https://github.com/nix-community/awesome-nix) - A curated list of the best resources in the Nix community
   - Note: The nix community has both an OS and a packaging system and is already large and vibrant, I can't do it justice so just use the list above to dive in
 - [Guix System](https://guix.gnu.org/) - a Linux distribution based on the Guix package manager based on Nix
 - [EndlessOS](https://endlessos.com/home/) - A Debian derivative distribution with a read-only root filesystem managed by OSTree and Flatpak for application delivery and update
