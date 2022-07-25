@@ -126,3 +126,8 @@ Things that don't fit anywhere else but might be useful reference material
 Contributions welcome! Read the [contribution guidelines](contributing.md) first. We need more nix resources so if you have good ones please consider PRing one.
 
 If you don't know how to use git then file an issue and leave a link, I'll integrate it into the list!
+
+# Fun Stats
+  
+  ![Alt](https://repobeats.axiom.co/api/embed/a8b746311ae37bead7de66fb5e735b146cefb0e8.svg "Repobeats analytics image")
+
