@@ -79,6 +79,7 @@ Things that are the building blocks for all the stuff we're talking about here.
 Most of us will not use these tools directly, but useful for developers:
 
 - [libostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades 
+  - [Upcoming experimental features in rpm-ostree](https://coreos.github.io/rpm-ostree/experimental/)
   - [flatpak-ostree-dedup-stats.py](https://gist.github.com/powpingdone/001a46aa7db190b9c935f71c6091eb71) - script to show you how well the ostree deduplication is working, this one is neat
   - [apt2ostree](https://github.com/stb-tester/apt2ostree) - apt2ostree is used for building Debian/Ubuntu based ostree images. It performs the same task as debootstrap/multistrap but the output is an ostree tree rather than a rootfs in a directory.
 - [Endless OSTree Builder](https://github.com/dbnicholson/deb-ostree-builder) - Stripped down Endless ostree builder for Debian 
