@@ -3,7 +3,7 @@
 > image-based Linux desktops
 
 This guide is for people looking for information on running image-based Linux distributions and associated tools and goodies. Note that these systems aren't totally immutable, but no one would ever click on an `awesome-anti-hysteresis` list.
-For this list server distributions like CoreOS and Flatcar are not included, this is intended for users who have been using traditional linux distributions on their desktop and need consolidated information. 
+For this list server distributions like CoreOS and Flatcar are not included. This list is intended for users who have been using traditional linux distributions on their desktop and need consolidated information. 
 
 ## Introductory Blogs
 
@@ -26,7 +26,7 @@ These should be enough to get you started:
 - [How Nix and NixOS Get So Close to Perfect](https://christine.website/talks/nixos-pain-2021-11-10) - Xe
 - [Fedora Silverblue: is this the FUTURE of Linux? - Project of the Month](https://www.youtube.com/watch?v=5TjIzUJtF-I) - older video but an excellent review of the major components
 - [Learning the difference between Red Hat distributions and what Fedora Silverblue is](https://www.youtube.com/watch?v=U8U2pEyeI6E) - JJ Asghar
-- [Linux After Dark – Episode 07](https://linuxafterdark.net/linux-after-dark-episode-07/) - the hosts try silverblue and did an episode on their experiences. 
+- [Linux After Dark – Episode 07](https://linuxafterdark.net/linux-after-dark-episode-07/) - the hosts tried silverblue and did an episode on their experiences. 
 - [Fedora Silverblue: An Immutable OS](https://www.youtube.com/watch?v=K-FqVWFh01w)
 - [What's new in (rpm-)ostree - 2022 edition! - DevConf.CZ 2022](https://www.youtube.com/watch?v=lEDihzhsIjE)
 - [Fedora 36 Silverblue: The 3 Guiding Principles for a Successful Experience](https://www.youtube.com/watch?v=zhBnuVVdd6Y) - excellent introduction video that covers lots of tips and tricks.
@@ -48,12 +48,12 @@ The Future is Now(tm), try one of these today!
 - [EndlessOS](https://endlessos.com/home/) - A Debian derivative distribution with a read-only root filesystem managed by OSTree and Flatpak for application delivery and update
 - [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure Chrome OS for PCs and Macs. 
   - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
-- [rlxos](https://rlxos.dev/) - A immutable, independent general-purpose distribution with primary focus on single file per application.
+- [rlxos](https://rlxos.dev/) - A immutable, independent general-purpose distribution with a primary focus on single file per application.
 - [carbonOS](https://carbon.sh/) - An open operating system designed from the ground-up to be intuitive and robust. The [blog post](https://carbon.sh/blog/2021-11-25-release.html) explains the goals
 
 ## Toolboxes
 
-There historically have been a few versions of "toolbox", and we're probably to a point where it's more of a class of software than an individual project. 
+There historically have been a few versions of "toolbox", and we're probably at a point where it's more of a class of software than an individual project. 
 I classify toolboxes as "A terminal front end to container runtimes focusing on transparent ease of use of container images".
 Someone smarter please make a better definition. 
 
