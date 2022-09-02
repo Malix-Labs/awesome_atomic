@@ -115,6 +115,13 @@ If you're automating the config on systems like this please PR your config to sh
 - [ansible-silverblue](https://github.com/j1mc/ansible-silverblue) - Jim Campbell's ansible playbook for silverblue
 - [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
 
+## Desktop Tours
+
+Here are some people walking through their setups:
+
+- [Schykle's Dell XPS 13 and Silverblue Setup](https://www.youtube.com/watch?v=CeiPUxLf-dQ)
+- [Jorge Castro's Desktop](https://www.youtube.com/watch?v=PM5exNztbXE)
+
 ## Tips
 
 - [Using Automatic Updates on Fedora Silverblue](https://miabbott.github.io/2018/06/13/rpm-ostree-automatic-updates.html)
