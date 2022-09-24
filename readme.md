@@ -65,7 +65,7 @@ Someone smarter please make a better definition.
   - [Toolbox GUI](https://github.com/Dvlv/toolbox-gui) - A graphical interface for interacting with Toolbox, written with GTK3 and Python
 - [Distrobox](https://github.com/89luca89/distrobox) - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
 - [devbox](https://github.com/jetpack-io/devbox) - Devbox is a command-line tool that lets you easily create isolated shells and containers.
-- [nxbox](https://github.com/refi64/nsbox) - Pet container manager based on systemd-nspawn and supporting DBus and desktop files.
+- [nsbox](https://github.com/refi64/nsbox) - Pet container manager based on systemd-nspawn and supporting DBus and desktop files.
 - [unbox](https://github.com/lopukhov/unbox) - New (a little bit experimental) implementation of a toolbox that does not rely on existing container engines like `podman` or `docker`, instead opting to use Linux namespaces directly to improve performance.
 - [coretoolbox](https://github.com/cgwalters/coretoolbox) - Toolbx alternative in rust with a focus on container builds. (Older project, appears unmaintained, but if I don't include rust stuff people will get upset :smiley:)
 
