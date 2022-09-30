@@ -51,7 +51,7 @@ The Future is Now(tm), try one of these today!
   - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
 - [rlxos](https://rlxos.dev/) - A immutable, independent general-purpose distribution with a primary focus on single file per application.
 - [carbonOS](https://carbon.sh/) - An open operating system designed from the ground-up to be intuitive and robust. The [blog post](https://carbon.sh/blog/2021-11-25-release.html) explains the goals
-- [astOS](https://github.com/astos/astos) - An immutable Arch based distribution utilizing btrfs snapshots.
+- [AshOS](https://github.com/ashos/ashos) - An immutable Arch based distribution utilizing btrfs snapshots.
 
 ## Toolboxes
 
