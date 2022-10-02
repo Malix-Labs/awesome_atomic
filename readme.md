@@ -115,6 +115,7 @@ If you're automating the config on systems like this please PR your config to sh
 - [castrojo's config (ublue)](https://github.com/castrojo/ublue) - A familiar(ish) Ubuntu desktop for Fedora Silverblue. 
 - [ansible-silverblue](https://github.com/j1mc/ansible-silverblue) - Jim Campbell's ansible playbook for silverblue
 - [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
+- [silvernobara](https://github.com/VinnyVynce/silvernobara) Fedora Silverblue with Project Nobara enhancements 
 
 ## Desktop Tours
 
