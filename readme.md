@@ -37,6 +37,7 @@ These should be enough to get you started:
 The Future is Now(tm), try one of these today!
 
 - [Fedora Silverblue](https://silverblue.fedoraproject.org/) - Silverblue is a variant of Fedora Workstation. It looks, feels and behaves like a regular desktop operating system, and the experience is similar to what you find with using a standard Fedora Workstation.
+  - [Ostree Native Container](https://fedoraproject.org/wiki/Changes/OstreeNativeContainerStable) - Spec on Silverblue moving to a native OCI container model (Huge change)
   - [Development on Fedora Silverblue and Fedora Kinoite](https://tim.siosm.fr/blog/2021/12/10/fedora-kinoite-silverblue-dev-guide/#development-using-flatpak)
   - [Setting yourself up for success before trying Fedora Silverblue](https://www.ypsidanger.com/setting-yourself-up-for-success-before-moving-to-fedora-silverblue/)
   - [Day-to-day differences between Fedora Silverblue and Ubuntu](https://www.ypsidanger.com/day-to-day-advantages-of-fedora-silverblue/)
