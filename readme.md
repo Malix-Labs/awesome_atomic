@@ -138,7 +138,7 @@ Here are some people walking through their setups:
   - [r/flatpak](https://www.reddit.com/r/flatpak/)
 
 - Discord Servers:
-  - [Immutable Discord](https://discord.gg/N4msw)
+  - [Immutable Linux Discord](https://discord.gg/N4msw)
   - [NixOS Discord](https://discord.gg/RbvHtGa)
 
 - Matrix Rooms:
