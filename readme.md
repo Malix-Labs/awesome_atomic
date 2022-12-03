@@ -130,6 +130,21 @@ Here are some people walking through their setups:
 
 - [Using Automatic Updates on Fedora Silverblue](https://miabbott.github.io/2018/06/13/rpm-ostree-automatic-updates.html)
 
+## Discussion
+
+- Reddit:
+  - [r/silverblue](https://www.reddit.com/r/silverblue/)
+  - [r/NixOS](https://www.reddit.com/r/NixOS/)
+  - [r/flatpak](https://www.reddit.com/r/flatpak/)
+
+- Discord Servers:
+  - [Immutable Linux Discord](https://discord.gg/N4mswFw6ds)
+  - [NixOS Discord](https://discord.gg/RbvHtGa)
+
+- Matrix Rooms:
+  - [Fedora Silverblue Matrix Room](https://matrix.to/#/#silverblue:fedoraproject.org)
+  - [NixOS Matrix Room](https://matrix.to/#/#nix:matrix.org)
+
 ## Miscellaneous
 
 Things that don't fit anywhere else but might be useful reference material 
