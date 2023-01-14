@@ -72,6 +72,7 @@ Someone smarter please make a better definition.
 - [nsbox](https://github.com/refi64/nsbox) - Pet container manager based on systemd-nspawn and supporting DBus and desktop files.
 - [unbox](https://github.com/lopukhov/unbox) - New (a little bit experimental) implementation of a toolbox that does not rely on existing container engines like `podman` or `docker`, instead opting to use Linux namespaces directly to improve performance.
 - [coretoolbox](https://github.com/cgwalters/coretoolbox) - Toolbx alternative in rust with a focus on container builds. (Older project, appears unmaintained, but if I don't include rust stuff people will get upset :smiley:)
+- [folderbox](https://github.com/ahayzen/folderbox) - Folder based containers that isolate project environments with escapes to the host for development
 
 ## Core Tools
 
