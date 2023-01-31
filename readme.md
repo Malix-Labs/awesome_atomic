@@ -55,6 +55,7 @@ The Future is Now(tm), try one of these today!
 - [AshOS](https://github.com/ashos/ashos) - The immutable tree-shaped meta-distribution.
 - [VanillaOS](https://vanillaos.org/) - Vanilla OS is an Ubuntu Linux-based Point Release distribution that receives updates at the right time, neither before nor after, without sacrificing security and functionality.
 - [Nitrux OS](https://nxos.org/) ([2.6.0](https://nxos.org/changelog/release-announcement-nitrux-2-6-0/)+) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
+- [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
 
 ## Toolboxes
 
