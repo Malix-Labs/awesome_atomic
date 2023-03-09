@@ -31,6 +31,8 @@ These should be enough to get you started:
 - [Fedora Silverblue: An Immutable OS](https://www.youtube.com/watch?v=K-FqVWFh01w)
 - [What's new in (rpm-)ostree - 2022 edition! - DevConf.CZ 2022](https://www.youtube.com/watch?v=lEDihzhsIjE)
 - [Fedora 36 Silverblue: The 3 Guiding Principles for a Successful Experience](https://www.youtube.com/watch?v=zhBnuVVdd6Y) - excellent introduction video that covers lots of tips and tricks.
+- [How we build and maintain Kairos](https://www.youtube.com/watch?v=XD5nfMf59v4) - Mauro Morales, FOSDEM 2023
+- [Meet Kairos, an OSS project building the immutable Kubernetes edge](https://www.youtube.com/watch?v=kiDQujibz2k) - Ettore Di Giacinto and Nic Vermande
 
 ## Distributions
 
@@ -56,6 +58,7 @@ The Future is Now(tm), try one of these today!
 - [VanillaOS](https://vanillaos.org/) - Vanilla OS is an Ubuntu Linux-based Point Release distribution that receives updates at the right time, neither before nor after, without sacrificing security and functionality.
 - [Nitrux OS](https://nxos.org/) ([2.6.0](https://nxos.org/changelog/release-announcement-nitrux-2-6-0/)+) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
+- [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 
 ## Toolboxes
 
