@@ -2,6 +2,8 @@
 
 > image-based Linux desktops
 
+**NOTE: This list is in need of a new maintainer, my research into these systems have led me to start a project with others to help drive adoption of these concepts: [Universal Blue](https://ublue.it). It is important that lists like these remain impartial, so if you're interested in taking over please let me know.**  
+
 This guide is for people looking for information on running image-based Linux distributions and associated tools and goodies. Note that these systems aren't totally immutable, but no one would ever click on an `awesome-anti-hysteresis` list.
 For this list server distributions like CoreOS and Flatcar are not included. This list is intended for users who have been using traditional linux distributions on their desktop and need consolidated information. 
 
