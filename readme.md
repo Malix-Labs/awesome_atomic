@@ -62,6 +62,7 @@ The Future is Now(tm), try one of these today!
 - [Nitrux OS](https://nxos.org/) ([2.6.0](https://nxos.org/changelog/release-announcement-nitrux-2-6-0/)+) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
+- [AstOS](https://github.com/CuBeRJAN/astOS/tree/main) - An immutable distro based on Arch using btrfs snapshots.
 
 ## Toolboxes
 
@@ -80,7 +81,8 @@ Someone smarter please make a better definition.
 - [nsbox](https://github.com/refi64/nsbox) - Pet container manager based on systemd-nspawn and supporting DBus and desktop files.
 - [unbox](https://github.com/lopukhov/unbox) - New (a little bit experimental) implementation of a toolbox that does not rely on existing container engines like `podman` or `docker`, instead opting to use Linux namespaces directly to improve performance.
 - [coretoolbox](https://github.com/cgwalters/coretoolbox) - Toolbx alternative in rust with a focus on container builds. (Older project, appears unmaintained, but if I don't include rust stuff people will get upset :smiley:)
-- [folderbox](https://github.com/ahayzen/folderbox) - Folder based containers that isolate project environments with escapes to the host for development
+- [folderbox](https://github.com/ahayzen/folderbox) - Folder based containers that isolate project environments with escapes to the host for development.
+- [apx](https://github.com/Vanilla-OS/apx) - The default package manager for VanillaOS, utilising Distrobox to manage containers for various distros on the user's behalf.
 
 ## Core Tools
 
@@ -105,6 +107,7 @@ Most of us will not use these tools directly, but useful for developers:
 - [osbuilder](https://www.osbuild.org/) - Build-Pipelines for Operating System Artifacts
   - [How to: Image Builder + OSTree + Anaconda](https://www.osbuild.org/news/2020-06-01-how-to-ostree-anaconda.html)  
   - [osbuild user guide](https://www.osbuild.org/guides/user-guide/user-guide.html)
+- [ABRoot](https://github.com/Vanilla-OS/ABRoot) - A utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.
 
 ## Integration Resources
 
