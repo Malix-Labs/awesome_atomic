@@ -2,8 +2,6 @@
 
 > image-based Linux desktops
 
-**NOTE: This list is in need of a new maintainer, my research into these systems have led me to start a project with others to help drive adoption of these concepts: [Universal Blue](https://ublue.it). It is important that lists like these remain impartial, so if you're interested in taking over please let me know.**  
-
 This guide is for people looking for information on running image-based Linux distributions and associated tools and goodies. Note that these systems aren't totally immutable, but no one would ever click on an `awesome-anti-hysteresis` list.
 For this list server distributions like CoreOS and Flatcar are not included. This list is intended for users who have been using traditional linux distributions on their desktop and need consolidated information. 
 
@@ -48,6 +46,7 @@ The Future is Now(tm), try one of these today!
   - [Day-to-day differences between Fedora Silverblue and Ubuntu](https://www.ypsidanger.com/day-to-day-advantages-of-fedora-silverblue/)
 - [Fedora Kinoite](https://kinoite.fedoraproject.org/) - Similar to Silverblue, but based on KDE
 - [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
+- [openSUSE Aeon](https://aeondesktop.org) - a variant of openSUSE Tumbleweed providing an immutable GNOME desktop featuring containers with Distrobox.
 - [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
   - [awesome-nix](https://github.com/nix-community/awesome-nix) - A curated list of the best resources in the Nix community
   - Note: The nix community has both an OS and a packaging system and is already large and vibrant, I can't do it justice so just use the list above to dive in
@@ -63,6 +62,7 @@ The Future is Now(tm), try one of these today!
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [AstOS](https://github.com/CuBeRJAN/astOS/tree/main) - An immutable distro based on Arch using btrfs snapshots.
+- [UBlue](https://ublue.it) - A framework for building your own OSTree distros, based on Fedora Siverblue. Check out the [list of available images!](https://ublue.it/images/)
 
 ## Toolboxes
 
