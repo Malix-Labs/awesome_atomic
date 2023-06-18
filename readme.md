@@ -48,6 +48,7 @@ The Future is Now(tm), try one of these today!
 - [Fedora Sericea](https://fedoraproject.org/sericea/) - Similar to Silverblue, but based on Sway tiling window manager
 - [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
 - [openSUSE Aeon](https://aeondesktop.org) - a variant of openSUSE Tumbleweed providing an immutable GNOME desktop featuring containers with Distrobox.
+- [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - Similar to openSUSE Aeon, but based on KDE.
 - [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
   - [awesome-nix](https://github.com/nix-community/awesome-nix) - A curated list of the best resources in the Nix community
   - Note: The nix community has both an OS and a packaging system and is already large and vibrant, I can't do it justice so just use the list above to dive in
@@ -155,10 +156,14 @@ Here are some people walking through their setups:
 - Discord Servers:
   - [Immutable Linux Discord](https://discord.gg/N4mswFw6ds)
   - [NixOS Discord](https://discord.gg/RbvHtGa)
+  - [VanillaOS Discord](https://discord.gg/vanilla-os-1023243680829681704)
+  - [ChimeraOS Discord](https://discord.gg/rgB8utyteK)
+
 
 - Matrix Rooms:
   - [Fedora Silverblue Matrix Room](https://matrix.to/#/#silverblue:fedoraproject.org)
   - [NixOS Matrix Room](https://matrix.to/#/#nix:matrix.org)
+  - [OpenSUSE Aeon / Kalpa](https://matrix.to/#/#microos-desktop:opensuse.org)
 
 ## Miscellaneous
 
