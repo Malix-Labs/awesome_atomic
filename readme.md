@@ -64,7 +64,7 @@ The Future is Now(tm), try one of these today!
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [AstOS](https://github.com/CuBeRJAN/astOS/tree/main) - An immutable distro based on Arch using btrfs snapshots.
-- [UBlue](https://ublue.it) - A framework for building your own OSTree distros, based on Fedora Siverblue. Check out the [list of available images!](https://ublue.it/images/)
+- [Universal Blue](https://ublue.it) - A framework for building your own OSTree distros, based on Fedora Siverblue. Check out the [list of available images!](https://ublue.it/images/)
 
 ## Toolboxes
 
@@ -130,7 +130,7 @@ If you're automating the config on systems like this please PR your config to sh
 - [vauxite](https://github.com/hyperreal64/vauxite) - This is an rpm-ostree-based Fedora Xfce desktop.
 - [zepyros-dev's config](https://github.com/zephyros-dev/silverblue-config)
 - [JayDoubleau's config (ansiblue)](https://github.com/JayDoubleu/ansiblue)
-- [uBLue](https://github.com/ublue-os) - Community built OS images based on Fedora Silverblue
+- [Universal BLue](https://github.com/ublue-os) - Community built OS images based on Fedora Silverblue
 - [ansible-silverblue](https://github.com/j1mc/ansible-silverblue) - Jim Campbell's ansible playbook for silverblue
 - [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
 - [silvernobara](https://github.com/VinnyVynce/silvernobara) Fedora Silverblue with Project Nobara enhancements 
