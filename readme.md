@@ -110,6 +110,8 @@ Most of us will not use these tools directly, but useful for developers:
   - [How to: Image Builder + OSTree + Anaconda](https://www.osbuild.org/news/2020-06-01-how-to-ostree-anaconda.html)  
   - [osbuild user guide](https://www.osbuild.org/guides/user-guide/user-guide.html)
 - [ABRoot](https://github.com/Vanilla-OS/ABRoot) - A utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.
+- [BootC](https://github.com/containers/bootc) - Transactional, in-place operating system updates using OCI/Docker container images. (Experimental)
+- [Elemental Toolkit](https://rancher.github.io/elemental-toolkit/) - A toolkit which allows container images to be bootable in VMs, baremetals, embedded devices, and much more. Elemental and derivatives share a common feature set, can be upgraded with a A/B mechanism, and upgrades are delivered with standard container registries.
 
 ## Integration Resources
 
