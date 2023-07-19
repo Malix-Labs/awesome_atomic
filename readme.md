@@ -113,6 +113,7 @@ Most of us will not use these tools directly, but useful for developers:
 - [BootC](https://github.com/containers/bootc) - Transactional, in-place operating system updates using OCI/Docker container images. (Experimental)
 - [bootupd](https://github.com/coreos/bootupd) - Distribution-independent updates for bootloaders.
 - [Elemental Toolkit](https://rancher.github.io/elemental-toolkit/) - A toolkit which allows container images to be bootable in VMs, baremetals, embedded devices, and much more. Elemental and derivatives share a common feature set, can be upgraded with a A/B mechanism, and upgrades are delivered with standard container registries.
+- [GoldBoot](https://github.com/fossable/goldboot) - a command-line utility that builds machine images for both servers and workstations alike.
 
 ## Integration Resources
 
