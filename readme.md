@@ -159,6 +159,7 @@ Here are some people walking through their setups:
 
 - Discord Servers:
   - [Immutable Linux Discord](https://discord.gg/N4mswFw6ds)
+  - [Universal Blue Discord](https://discord.gg/Xsk7n54fFY)
   - [NixOS Discord](https://discord.gg/RbvHtGa)
   - [VanillaOS Discord](https://discord.gg/vanilla-os-1023243680829681704)
   - [ChimeraOS Discord](https://discord.gg/rgB8utyteK)
