@@ -16,6 +16,7 @@ These should be enough to get you started:
 
 ## Talks and Videos
 
+- [The Fedora Podcast - Episode 30](https://www.youtube.com/watch?v=cHYyGVOae84) - Jorge Castro and Timothee Ravier talk about Silverblue and the future of Immutable Desktops.
 - [Linux Downtime - Episode 39](https://www.youtube.com/watch?v=CiyjZwd4Jrs) - I went on this podcast to talk about this list, image based desktops, flatpaks, and all that stuff. If you are lost start here! 
 - [The Read Only Scenario](https://linuxunplugged.com/468) - An excellent introduction to these kinds of desktops
 - [Kubic - openSUSEs Container Starship](https://speakerdeck.com/sysrich/kubic-opensuses-container-starship) - Richard Brown
