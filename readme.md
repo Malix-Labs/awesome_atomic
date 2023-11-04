@@ -47,6 +47,7 @@ The Future is Now(tm), try one of these today!
   - [Day-to-day differences between Fedora Silverblue and Ubuntu](https://www.ypsidanger.com/day-to-day-advantages-of-fedora-silverblue/)
 - [Fedora Kinoite](https://kinoite.fedoraproject.org/) - Similar to Silverblue, but based on KDE
 - [Fedora Sericea](https://fedoraproject.org/sericea/) - Similar to Silverblue, but based on Sway tiling window manager
+- [Fedora Onyx](https://fedoraproject.org/onyx) - Similar to Silverblue, but based on Budgie Desktop
 - [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
 - [openSUSE Aeon](https://aeondesktop.org) - a variant of openSUSE Tumbleweed providing an immutable GNOME desktop featuring containers with Distrobox.
 - [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - Similar to openSUSE Aeon, but based on KDE.
