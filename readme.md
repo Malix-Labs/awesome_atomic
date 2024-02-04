@@ -67,6 +67,9 @@ The Future is Now(tm), try one of these today!
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [AstOS](https://github.com/CuBeRJAN/astOS/tree/main) - An immutable distro based on Arch using btrfs snapshots.
 - [Universal Blue](https://ublue.it) - A framework for building your own OSTree distros, based on Fedora Siverblue. Check out the [list of available images!](https://ublue.it/images/)
+- [Mocaccino Desktop](https://www.mocaccino.org/docs/desktop/) - A Gentoo-based distribution (derived from Sabayon) oriented towards Desktop systems.
+- [Bazzite](https://github.com/ublue-os/bazzite/) - An OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers and living room home theater PCs.
+- [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS
 
 ## Toolboxes
 
