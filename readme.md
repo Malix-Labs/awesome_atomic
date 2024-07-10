@@ -53,7 +53,7 @@ The Future is Now(tm), try one of these today!
     - [Fedora Budgie](https://fedoraproject.org/atomic-desktops/budgie) - An atomic-based Fedora based on Budgie desktop environment
   - Related Projects
     - [Universal Blue](https://universal-blue.org/) - An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. [list of source images](https://github.com/orgs/ublue-os/packages), [list of end-user images](https://universal-blue.org/#images)
-      - [Bazzite](https://github.com/ublue-os/bazzite/) - An Universal Blue OCI image focused on Desktop Gaming, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/), the gold standard of atomic desktop linux gaming
+      - [Bazzite](https://github.com/ublue-os/bazzite/) - An Universal Blue OCI image focused on Desktop Gaming, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/); the gold standard of atomic desktop linux gaming
       - [Bluefin](https://projectbluefin.io/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Silverblue](https://silverblue.fedoraproject.org/)
       - [Aurora](https://getaurora.dev/) -An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/)
 - [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
