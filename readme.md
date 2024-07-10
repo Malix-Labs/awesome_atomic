@@ -49,8 +49,8 @@ The Future is Now(tm), try one of these today!
   - Spins
     - [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue) - An atomic-based Fedora based on the GNOME desktop environment
     - [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/) - An atomic-based Fedora based on KDE Plasma desktop enviroment
-    - [Fedora Sway](https://fedoraproject.org/atomic-desktops/sway) - An atomic-based Fedora based on the Sway tiling window manager
-    - [Fedora Budgie](https://fedoraproject.org/atomic-desktops/budgie) - An atomic-based Fedora based on Budgie desktop environment
+    - [Fedora Sway Atomic](https://fedoraproject.org/atomic-desktops/sway) - An atomic-based Fedora based on the Sway tiling window manager
+    - [Fedora Budgie Atomic](https://fedoraproject.org/atomic-desktops/budgie) - An atomic-based Fedora based on Budgie desktop environment
   - Related Projects
     - [Universal Blue](https://universal-blue.org/) - An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. [list of source images](https://github.com/orgs/ublue-os/packages), [list of end-user images](https://universal-blue.org/#images)
       - [Bazzite](https://github.com/ublue-os/bazzite/) - An Universal Blue OCI image focused on Desktop Gaming, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/); the gold standard of atomic desktop linux gaming
