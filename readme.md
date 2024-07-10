@@ -47,10 +47,10 @@ The Future is Now(tm), try one of these today!
     - [Setting yourself up for success before trying Fedora Silverblue](https://www.ypsidanger.com/setting-yourself-up-for-success-before-moving-to-fedora-silverblue/)
     - [Day-to-day differences between Fedora Silverblue and Ubuntu](https://www.ypsidanger.com/day-to-day-advantages-of-fedora-silverblue/)
   - Spins
-    - [Fedora Silverblue](https://silverblue.fedoraproject.org/) - Silverblue is an atomic-based Fedora based on GNOME
-    - [Fedora Kinoite](https://kinoite.fedoraproject.org/) - An atomic-based Fedora based on KDE Plasma
-    - [Fedora Sericea](https://fedoraproject.org/sericea/) - An atomic-based Fedora based on the Sway tiling window manager
-    - [Fedora Onyx](https://fedoraproject.org/onyx) - An atomic-based Fedora based on the Sway tiling window manager based on Budgie Desktop
+    - [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue) - Silverblue is an atomic-based Fedora based on GNOME
+    - [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/) - An atomic-based Fedora based on KDE Plasma
+    - [Fedora Sway](https://fedoraproject.org/atomic-desktops/sway) - An atomic-based Fedora based on the Sway tiling window manager
+    - [Fedora Budgie](https://fedoraproject.org/atomic-desktops/budgie) - An atomic-based Fedora based on the Sway tiling window manager based on Budgie Desktop
   - Related Projects
     - [Universal Blue](https://universal-blue.org/) - An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. [list of source images](https://github.com/orgs/ublue-os/packages), [list of end-user images](https://universal-blue.org/#images)
       - [Bazzite](https://github.com/ublue-os/bazzite/) - An Universal Blue OCI image focused on Desktop Gaming, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/), the gold standard of atomic desktop linux gaming
