@@ -51,11 +51,13 @@ The Future is Now(tm), try one of these today!
     - [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/) - An atomic-based Fedora based on KDE Plasma desktop enviroment
     - [Fedora Sway Atomic](https://fedoraproject.org/atomic-desktops/sway) - An atomic-based Fedora based on the Sway tiling window manager
     - [Fedora Budgie Atomic](https://fedoraproject.org/atomic-desktops/budgie) - An atomic-based Fedora based on Budgie desktop environment
+    - [Fedora CoreOS](https://fedoraproject.org/coreos/) - An atomic-based Fedora focused on servers
   - Related Projects
     - [Universal Blue](https://universal-blue.org/) - An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. [list of source images](https://github.com/orgs/ublue-os/packages), [list of end-user images](https://universal-blue.org/#images)
       - [Bazzite](https://github.com/ublue-os/bazzite/) - An Universal Blue OCI image focused on Desktop Gaming, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/); the gold standard of atomic desktop linux gaming
       - [Bluefin](https://projectbluefin.io/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Silverblue](https://silverblue.fedoraproject.org/)
-      - [Aurora](https://getaurora.dev/) -An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/)
+      - [Aurora](https://getaurora.dev/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/)
+      - [uCore](https://projectucore.io/) - An Universal Blue OCI image focused on server use, based on [Fedora CoreOS](https://fedoraproject.org/coreos/)
 - [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
 - [openSUSE Aeon](https://aeondesktop.org) - a variant of openSUSE Tumbleweed providing an immutable GNOME desktop featuring containers with Distrobox.
 - [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - Similar to openSUSE Aeon, but based on KDE.
