@@ -48,9 +48,10 @@ The Future is Now(tm), try one of these today!
 - [Fedora Kinoite](https://kinoite.fedoraproject.org/) - Similar to Silverblue, but based on KDE
 - [Fedora Sericea](https://fedoraproject.org/sericea/) - Similar to Silverblue, but based on Sway tiling window manager
 - [Fedora Onyx](https://fedoraproject.org/onyx) - Similar to Silverblue, but based on Budgie Desktop
-- [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
-- [openSUSE Aeon](https://aeondesktop.org) - a variant of openSUSE Tumbleweed providing an immutable GNOME desktop featuring containers with Distrobox.
-- [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - Similar to openSUSE Aeon, but based on KDE.
+- openSUSE Atomic
+  - [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers that serves as a base of openSUSE Kubic, a Container as a Service platform.
+  - [openSUSE Aeon](https://aeondesktop.org) - An atomic variant of openSUSE with the GNOME desktop environment,featuring containers with Distrobox.
+  - [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - An atomic variant of openSUSE with the KDE Plasma desktop environment,featuring containers with Distrobox.
 - [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
   - [awesome-nix](https://github.com/nix-community/awesome-nix) - A curated list of the best resources in the Nix community
   - Note: The nix community has both an OS and a packaging system and is already large and vibrant, I can't do it justice so just use the list above to dive in
