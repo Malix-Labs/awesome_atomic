@@ -40,14 +40,22 @@ These should be enough to get you started:
 
 The Future is Now(tm), try one of these today!
 
-- [Fedora Silverblue](https://silverblue.fedoraproject.org/) - Silverblue is a variant of Fedora Workstation. It looks, feels and behaves like a regular desktop operating system, and the experience is similar to what you find with using a standard Fedora Workstation.
-  - [Ostree Native Container](https://fedoraproject.org/wiki/Changes/OstreeNativeContainerStable) - Spec on Silverblue moving to a native OCI container model (Huge change)
-  - [Development on Fedora Silverblue and Fedora Kinoite](https://tim.siosm.fr/blog/2021/12/10/fedora-kinoite-silverblue-dev-guide/#development-using-flatpak)
-  - [Setting yourself up for success before trying Fedora Silverblue](https://www.ypsidanger.com/setting-yourself-up-for-success-before-moving-to-fedora-silverblue/)
-  - [Day-to-day differences between Fedora Silverblue and Ubuntu](https://www.ypsidanger.com/day-to-day-advantages-of-fedora-silverblue/)
-- [Fedora Kinoite](https://kinoite.fedoraproject.org/) - Similar to Silverblue, but based on KDE
-- [Fedora Sericea](https://fedoraproject.org/sericea/) - Similar to Silverblue, but based on Sway tiling window manager
-- [Fedora Onyx](https://fedoraproject.org/onyx) - Similar to Silverblue, but based on Budgie Desktop
+- [Fedora Atomic](https://fedoraproject.org/atomic-desktops/) - The official atomic editons of Fedora
+  - Useful Documentation
+    - [Ostree Native Container](https://fedoraproject.org/wiki/Changes/OstreeNativeContainerStable) - Spec on Silverblue moving to a native OCI container model (Huge change)
+    - [Development on Fedora Silverblue and Fedora Kinoite](https://tim.siosm.fr/blog/2021/12/10/fedora-kinoite-silverblue-dev-guide/#development-using-flatpak)
+    - [Setting yourself up for success before trying Fedora Silverblue](https://www.ypsidanger.com/setting-yourself-up-for-success-before-moving-to-fedora-silverblue/)
+    - [Day-to-day differences between Fedora Silverblue and Ubuntu](https://www.ypsidanger.com/day-to-day-advantages-of-fedora-silverblue/)
+  - Spins
+    - [Fedora Silverblue](https://silverblue.fedoraproject.org/) - Silverblue is an atomic-based Fedora based on GNOME
+    - [Fedora Kinoite](https://kinoite.fedoraproject.org/) - An atomic-based Fedora based on KDE Plasma
+    - [Fedora Sericea](https://fedoraproject.org/sericea/) - An atomic-based Fedora based on the Sway tiling window manager
+    - [Fedora Onyx](https://fedoraproject.org/onyx) - An atomic-based Fedora based on the Sway tiling window manager based on Budgie Desktop
+  - Related Projects
+    - [Universal Blue](https://universal-blue.org/) - An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. [list of source images](https://github.com/orgs/ublue-os/packages), [list of end-user images](https://universal-blue.org/#images)
+      - [Bazzite](https://github.com/ublue-os/bazzite/) - An Universal Blue OCI image focused on Desktop Gaming, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/), the gold standard of atomic desktop linux gaming
+      - [Bluefin](https://projectbluefin.io/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Silverblue](https://silverblue.fedoraproject.org/)
+      - [Aurora](https://getaurora.dev/) -An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://kinoite.fedoraproject.org/)
 - [openSUSE MicroOS](https://microos.opensuse.org/) - a variant of openSUSE Tumbleweed and serves as a base of openSUSE Kubic, a Container as a Service platform.
 - [openSUSE Aeon](https://aeondesktop.org) - a variant of openSUSE Tumbleweed providing an immutable GNOME desktop featuring containers with Distrobox.
 - [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - Similar to openSUSE Aeon, but based on KDE.
@@ -66,9 +74,7 @@ The Future is Now(tm), try one of these today!
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [AstOS](https://github.com/CuBeRJAN/astOS/tree/main) - An immutable distro based on Arch using btrfs snapshots.
-- [Universal Blue](https://ublue.it) - A framework for building your own OSTree distros, based on Fedora Siverblue. Check out the [list of available images!](https://ublue.it/images/)
 - [Mocaccino Desktop](https://www.mocaccino.org/docs/desktop/) - A Gentoo-based distribution (derived from Sabayon) oriented towards Desktop systems.
-- [Bazzite](https://github.com/ublue-os/bazzite/) - An OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers and living room home theater PCs.
 - [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS
 
 ## Toolboxes
