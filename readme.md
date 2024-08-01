@@ -79,6 +79,7 @@ The Future is Now(tm), try one of these today!
 - [AstOS](https://github.com/CuBeRJAN/astOS/tree/main) - An immutable distro based on Arch using btrfs snapshots.
 - [Mocaccino Desktop](https://www.mocaccino.org/docs/desktop/) - A Gentoo-based distribution (derived from Sabayon) oriented towards Desktop systems.
 - [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS
+- [Arkane Linux](https://arkanelinux.org/) - Arch based immutable distro which uses [Arkdep](https://github.com/arkanelinux/arkdep)
 
 ## Toolboxes
 
@@ -128,6 +129,7 @@ Most of us will not use these tools directly, but useful for developers:
 - [bootupd](https://github.com/coreos/bootupd) - Distribution-independent updates for bootloaders.
 - [Elemental Toolkit](https://rancher.github.io/elemental-toolkit/) - A toolkit which allows container images to be bootable in VMs, baremetals, embedded devices, and much more. Elemental and derivatives share a common feature set, can be upgraded with a A/B mechanism, and upgrades are delivered with standard container registries.
 - [GoldBoot](https://github.com/fossable/goldboot) - a command-line utility that builds machine images for both servers and workstations alike.
+- [Arkdep](https://github.com/arkanelinux/arkdep) - Toolkit for building, deploying and maintaining immutable, atomic, btrfs-based systems
 
 ## Integration Resources
 
