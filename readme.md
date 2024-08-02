@@ -67,8 +67,8 @@ The Future is Now(tm), try one of these today!
   - Note: The nix community has both an OS and a packaging system and is already large and vibrant, I can't do it justice so just use the list above to dive in
 - [Guix System](https://guix.gnu.org/) - a Linux distribution based on the Guix package manager based on Nix
 - [EndlessOS](https://endlessos.com/home/) - A Debian derivative distribution with a read-only root filesystem managed by OSTree, and is Flatpak-only for application delivery and update. One of the most noob-friendly linux distribution
-- [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure Chrome OS for PCs and Macs. 
-  - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
+- [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
+  - [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure Chrome OS for PCs and Macs. 
 - [rlxos](https://rlxos.dev/) - A immutable, independent general-purpose distribution with a primary focus on single file per application.
 - [carbonOS](https://carbon.sh/) - An open operating system designed from the ground-up to be intuitive and robust. The [blog post](https://carbon.sh/blog/2021-11-25-release.html) explains the goals
 - [AshOS](https://github.com/ashos/ashos) - The immutable tree-shaped meta-distribution.
@@ -79,6 +79,7 @@ The Future is Now(tm), try one of these today!
 - [AstOS](https://github.com/CuBeRJAN/astOS/tree/main) - An immutable distro based on Arch using btrfs snapshots.
 - [Mocaccino Desktop](https://www.mocaccino.org/docs/desktop/) - A Gentoo-based distribution (derived from Sabayon) oriented towards Desktop systems.
 - [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS
+- [Arkane Linux](https://arkanelinux.org/) - Arch based immutable distro which uses [Arkdep](https://github.com/arkanelinux/arkdep)
 
 ## Toolboxes
 
@@ -128,6 +129,7 @@ Most of us will not use these tools directly, but useful for developers:
 - [bootupd](https://github.com/coreos/bootupd) - Distribution-independent updates for bootloaders.
 - [Elemental Toolkit](https://rancher.github.io/elemental-toolkit/) - A toolkit which allows container images to be bootable in VMs, baremetals, embedded devices, and much more. Elemental and derivatives share a common feature set, can be upgraded with a A/B mechanism, and upgrades are delivered with standard container registries.
 - [GoldBoot](https://github.com/fossable/goldboot) - a command-line utility that builds machine images for both servers and workstations alike.
+- [Arkdep](https://github.com/arkanelinux/arkdep) - Toolkit for building, deploying and maintaining immutable, atomic, btrfs-based systems
 
 ## Integration Resources
 
