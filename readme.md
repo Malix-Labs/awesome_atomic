@@ -193,6 +193,7 @@ Here are some people walking through their setups:
 Things that don't fit anywhere else but might be useful reference material 
 
 - [Introducing flox - Nix for simplicity and scale](https://discourse.nixos.org/t/introducing-flox-nix-for-simplicity-and-scale/11275)- Barry Plunkett
+- [pkgx is a blazingly fast, standalone, cross‐platform binary that runs anything](https://pkgx.sh/)
 
 
 ## Contribute
