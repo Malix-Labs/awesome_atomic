@@ -1,9 +1,6 @@
-# Awesome Immutable [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Atomic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> image-based Linux desktops
-
-This guide is for people looking for information on running image-based Linux distributions and associated tools and goodies. Note that these systems aren't totally immutable, but no one would ever click on an `awesome-anti-hysteresis` list.
-For this list server distributions like CoreOS and Flatcar are not included. This list is intended for users who have been using traditional linux distributions on their desktop and need consolidated information.
+An awesome list of resources about operating system atomicity
 
 ## Introductory Blogs and Publications
 
