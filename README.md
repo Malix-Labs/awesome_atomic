@@ -3,7 +3,7 @@
 > image-based Linux desktops
 
 This guide is for people looking for information on running image-based Linux distributions and associated tools and goodies. Note that these systems aren't totally immutable, but no one would ever click on an `awesome-anti-hysteresis` list.
-For this list server distributions like CoreOS and Flatcar are not included. This list is intended for users who have been using traditional linux distributions on their desktop and need consolidated information. 
+For this list server distributions like CoreOS and Flatcar are not included. This list is intended for users who have been using traditional linux distributions on their desktop and need consolidated information.
 
 ## Introductory Blogs and Publications
 
@@ -17,19 +17,19 @@ These should be enough to get you started:
 ## Talks and Videos
 
 - [The Fedora Podcast - Episode 30](https://www.youtube.com/watch?v=cHYyGVOae84) - Jorge Castro and Timothee Ravier talk about Silverblue and the future of Immutable Desktops.
-- [Linux Downtime - Episode 39](https://www.youtube.com/watch?v=CiyjZwd4Jrs) - I went on this podcast to talk about this list, image based desktops, flatpaks, and all that stuff. If you are lost start here! 
+- [Linux Downtime - Episode 39](https://www.youtube.com/watch?v=CiyjZwd4Jrs) - I went on this podcast to talk about this list, image based desktops, flatpaks, and all that stuff. If you are lost start here!
 - [The Read Only Scenario](https://linuxunplugged.com/468) - An excellent introduction to these kinds of desktops
 - [Kubic - openSUSEs Container Starship](https://speakerdeck.com/sysrich/kubic-opensuses-container-starship) - Richard Brown
 - [openSUSE MicroOS](https://www.youtube.com/watch?v=nIwqzGbX-oc) - Richard Brown
 - [Can MicroOS Desktop be your Daily Driver?](https://www.youtube.com/watch?v=6F7iCntjWB8) - Dario Faggioli
 - [MicroOS Desktop: The Road to Daily Driving](https://www.youtube.com/watch?v=cZLckDUDYjw) - Richard Brown
-- [19 talks on Fedora Silverblue and related technologies](https://silverblue.fedoraproject.org/elsewhere) - many recorded talks here, too many to list here, but worth it! 
+- [19 talks on Fedora Silverblue and related technologies](https://silverblue.fedoraproject.org/elsewhere) - many recorded talks here, too many to list here, but worth it!
 - [ostree CLI for OS management](https://www.youtube.com/watch?v=B0xvrXkEwr4) - Denis Pynkin
 - [Let's try Fedora Silverblue](https://www.youtube.com/watch?v=-hpV5l-gJnQ) - Adam Šamalik
 - [How Nix and NixOS Get So Close to Perfect](https://christine.website/talks/nixos-pain-2021-11-10) - Xe
 - [Fedora Silverblue: is this the FUTURE of Linux? - Project of the Month](https://www.youtube.com/watch?v=5TjIzUJtF-I) - older video but an excellent review of the major components
 - [Learning the difference between Red Hat distributions and what Fedora Silverblue is](https://www.youtube.com/watch?v=U8U2pEyeI6E) - JJ Asghar
-- [Linux After Dark – Episode 07](https://linuxafterdark.net/linux-after-dark-episode-07/) - the hosts tried silverblue and did an episode on their experiences. 
+- [Linux After Dark – Episode 07](https://linuxafterdark.net/linux-after-dark-episode-07/) - the hosts tried silverblue and did an episode on their experiences.
 - [Fedora Silverblue: An Immutable OS](https://www.youtube.com/watch?v=K-FqVWFh01w)
 - [What's new in (rpm-)ostree - 2022 edition! - DevConf.CZ 2022](https://www.youtube.com/watch?v=lEDihzhsIjE)
 - [Fedora 36 Silverblue: The 3 Guiding Principles for a Successful Experience](https://www.youtube.com/watch?v=zhBnuVVdd6Y) - excellent introduction video that covers lots of tips and tricks.
@@ -70,7 +70,7 @@ The Future is Now(tm), try one of these today!
 - [RDE](http://trop.in/rde/) - Developer and power user friendly GNU/Linux distribution based on GNU Guix functional package manager
 - [EndlessOS](https://endlessos.com/home/) - A Debian derivative distribution with a read-only root filesystem managed by OSTree and Flatpak for application delivery and update
 - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
-  - [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure Chrome OS for PCs and Macs. 
+  - [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure Chrome OS for PCs and Macs.
 - [rlxos](https://rlxos.dev/) - A immutable, independent general-purpose distribution with a primary focus on single file per application.
 - [carbonOS](https://carbon.sh/) - An open operating system designed from the ground-up to be intuitive and robust. The [blog post](https://carbon.sh/blog/2021-11-25-release.html) explains the goals
 - [AshOS](https://github.com/ashos/ashos) - The immutable tree-shaped meta-distribution.
@@ -85,9 +85,9 @@ The Future is Now(tm), try one of these today!
 
 ## Toolboxes
 
-There historically have been a few versions of "toolbox", and we're probably at a point where it's more of a class of software than an individual project. 
+There historically have been a few versions of "toolbox", and we're probably at a point where it's more of a class of software than an individual project.
 I classify toolboxes as "A terminal front end to container runtimes focusing on transparent ease of use of container images".
-Someone smarter please make a better definition. 
+Someone smarter please make a better definition.
 
 - [Toolbx](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux
   - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - Toolbx Tuner is a tool to improve the experience with toolbx.
@@ -118,13 +118,13 @@ Things that are the building blocks for all the stuff we're talking about here.
 
 Most of us will not use these tools directly, but useful for developers:
 
-- [libostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades 
+- [libostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades
   - [Upcoming experimental features in rpm-ostree](https://coreos.github.io/rpm-ostree/experimental/)
   - [flatpak-ostree-dedup-stats.py](https://gist.github.com/powpingdone/001a46aa7db190b9c935f71c6091eb71) - script to show you how well the ostree deduplication is working, this one is neat
   - [apt2ostree](https://github.com/stb-tester/apt2ostree) - apt2ostree is used for building Debian/Ubuntu based ostree images. It performs the same task as debootstrap/multistrap but the output is an ostree tree rather than a rootfs in a directory.
-- [Endless OSTree Builder](https://github.com/dbnicholson/deb-ostree-builder) - Stripped down Endless ostree builder for Debian 
+- [Endless OSTree Builder](https://github.com/dbnicholson/deb-ostree-builder) - Stripped down Endless ostree builder for Debian
 - [osbuilder](https://www.osbuild.org/) - Build-Pipelines for Operating System Artifacts
-  - [How to: Image Builder + OSTree + Anaconda](https://www.osbuild.org/news/2020-06-01-how-to-ostree-anaconda.html)  
+  - [How to: Image Builder + OSTree + Anaconda](https://www.osbuild.org/news/2020-06-01-how-to-ostree-anaconda.html)
   - [osbuild user guide](https://www.osbuild.org/guides/user-guide/user-guide.html)
 - [ABRoot](https://github.com/Vanilla-OS/ABRoot) - A utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.
 - [BootC](https://github.com/containers/bootc) - Transactional, in-place operating system updates using OCI/Docker container images. (Experimental)
@@ -137,10 +137,10 @@ Most of us will not use these tools directly, but useful for developers:
 
 aka. duct tape.
 
-- [Integrate VSCode and Distrobox](https://distrobox.privatedns.org/posts/integrate_vscode_distrobox.html) 
-- [silverblue-nix](https://gitlab.com/ahayzen/silverblue-nix) - Andrew Hayzen's steps for getting nix working on Fedora Silverblue. 
+- [Integrate VSCode and Distrobox](https://distrobox.privatedns.org/posts/integrate_vscode_distrobox.html)
+- [silverblue-nix](https://gitlab.com/ahayzen/silverblue-nix) - Andrew Hayzen's steps for getting nix working on Fedora Silverblue.
 - [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) -  Toolbox Visual Studio Code integration
-- [silverblue-tools](https://github.com/A6GibKm/silverblue-tools) - Collection of scripts for silverblue related technologies  
+- [silverblue-tools](https://github.com/A6GibKm/silverblue-tools) - Collection of scripts for silverblue related technologies
 
 ## Configs from the Community
 
@@ -155,7 +155,7 @@ If you're automating the config on systems like this please PR your config to sh
 - [Universal BLue](https://github.com/ublue-os) - Community built OS images based on Fedora Silverblue
 - [ansible-silverblue](https://github.com/j1mc/ansible-silverblue) - Jim Campbell's ansible playbook for silverblue
 - [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
-- [silvernobara](https://github.com/VinnyVynce/silvernobara) Fedora Silverblue with Project Nobara enhancements 
+- [silvernobara](https://github.com/VinnyVynce/silvernobara) Fedora Silverblue with Project Nobara enhancements
 
 ## Desktop Tours
 
@@ -190,7 +190,7 @@ Here are some people walking through their setups:
 
 ## Miscellaneous
 
-Things that don't fit anywhere else but might be useful reference material 
+Things that don't fit anywhere else but might be useful reference material
 
 - [Introducing flox - Nix for simplicity and scale](https://discourse.nixos.org/t/introducing-flox-nix-for-simplicity-and-scale/11275)- Barry Plunkett
 
@@ -202,6 +202,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 If you don't know how to use git then file an issue and leave a link, I'll integrate it into the list!
 
 # Fun Stats
-  
-  ![Alt](https://repobeats.axiom.co/api/embed/a8b746311ae37bead7de66fb5e735b146cefb0e8.svg "Repobeats analytics image")
 
+  ![Alt](https://repobeats.axiom.co/api/embed/a8b746311ae37bead7de66fb5e735b146cefb0e8.svg "Repobeats analytics image")
