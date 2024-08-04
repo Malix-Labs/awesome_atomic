@@ -190,14 +190,3 @@ Here are some people walking through their setups:
 Things that don't fit anywhere else but might be useful reference material
 
 - [Introducing flox - Nix for simplicity and scale](https://discourse.nixos.org/t/introducing-flox-nix-for-simplicity-and-scale/11275)- Barry Plunkett
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first. We need more nix resources so if you have good ones please consider PRing one.
-
-If you don't know how to use git then file an issue and leave a link, I'll integrate it into the list!
-
-# Fun Stats
-
-  ![Alt](https://repobeats.axiom.co/api/embed/a8b746311ae37bead7de66fb5e735b146cefb0e8.svg "Repobeats analytics image")
