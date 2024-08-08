@@ -1,4 +1,6 @@
-# Awesome Atomic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [Awesome Atomic](https://github.com/Malix-off/awesome_atomic) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[![](https://img.freepik.com/premium-photo/3d-illustration-atom-with-atom-computer-circuit-board-background_779834-6339.jpg)](https://images.app.goo.gl/S1xCGtUmMfXGr5N96)
 
 An awesome list of resources about operating system atomicity
 
