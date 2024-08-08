@@ -9,8 +9,6 @@ An awesome curated knowledge-base about atomic systems
 These should be enough to get you started:
 
 - [“Immutable” → reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/) - Colin Walters
-- [The Birth of the Kubic Desktop](https://rootco.de/2017-11-16-hackweek-2017-conclusion/) - Richard Brown
-- [Project Atomic + Docker: A post package world?](https://blog.verbum.org/2014/07/10/project-atomic-docker-a-post-package-world/) - Colin Walters - it's an older post but it checks out
 - [Immutable Operating Systems: A Survey](https://www.researchgate.net/publication/370528248_Immutable_Operating_Systems_A_Survey) - Sebastian Böhm and Guido Wirtz, University of Bamberg, Germany - A short scientific publication that conceptualizes, defines, and outlines use cases and limitations of Immutable Operating Systems.
 
 ## Talks and Videos
