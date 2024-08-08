@@ -35,7 +35,7 @@ These should be enough to get you started:
 
 ## Distributions
 
-The Future is Now(tm), try one of these today!
+The Future is Now™, try one of these today!
 
 - [Fedora Atomic](https://fedoraproject.org/atomic-desktops/) - The official atomic editons of Fedora
   - Useful Documentation
