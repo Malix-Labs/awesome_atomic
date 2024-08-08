@@ -16,7 +16,6 @@ These should be enough to get you started:
 - [The Fedora Podcast - Episode 30](https://www.youtube.com/watch?v=cHYyGVOae84) - Jorge Castro and Timothee Ravier talk about Silverblue and the future of Immutable Desktops.
 - [Linux Downtime - Episode 39](https://www.youtube.com/watch?v=CiyjZwd4Jrs) - I went on this podcast to talk about this list, image based desktops, flatpaks, and all that stuff. If you are lost start here!
 - [The Read Only Scenario](https://linuxunplugged.com/468) - An excellent introduction to these kinds of desktops
-- [Kubic - openSUSEs Container Starship](https://speakerdeck.com/sysrich/kubic-opensuses-container-starship) - Richard Brown
 - [openSUSE MicroOS](https://www.youtube.com/watch?v=nIwqzGbX-oc) - Richard Brown
 - [Can MicroOS Desktop be your Daily Driver?](https://www.youtube.com/watch?v=6F7iCntjWB8) - Dario Faggioli
 - [MicroOS Desktop: The Road to Daily Driving](https://www.youtube.com/watch?v=cZLckDUDYjw) - Richard Brown
@@ -56,7 +55,7 @@ The Future is Now™, try one of these today!
 			- [Aurora](https://getaurora.dev/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/)
 			- [uCore](https://projectucore.io/) - An Universal Blue OCI image focused on server use, based on [Fedora CoreOS](https://fedoraproject.org/coreos/)
 - openSUSE Atomic
-	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers that serves as a base of openSUSE Kubic, a Container as a Service platform.
+	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers
 	- [openSUSE Aeon](https://aeondesktop.org) - An atomic variant of openSUSE with the GNOME desktop environment,featuring containers with Distrobox.
 	- [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - An atomic variant of openSUSE with the KDE Plasma desktop environment,featuring containers with Distrobox.
 - [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
