@@ -27,7 +27,6 @@ These should be enough to get you started:
 - [Learning the difference between Red Hat distributions and what Fedora Silverblue is](https://www.youtube.com/watch?v=U8U2pEyeI6E) - JJ Asghar
 - [Linux After Dark – Episode 07](https://linuxafterdark.net/linux-after-dark-episode-07/) - the hosts tried silverblue and did an episode on their experiences.
 - [Fedora Silverblue: An Immutable OS](https://www.youtube.com/watch?v=K-FqVWFh01w)
-- [What's new in (rpm-)ostree - 2022 edition! - DevConf.CZ 2022](https://www.youtube.com/watch?v=lEDihzhsIjE)
 - [Fedora 36 Silverblue: The 3 Guiding Principles for a Successful Experience](https://www.youtube.com/watch?v=zhBnuVVdd6Y) - excellent introduction video that covers lots of tips and tricks.
 - [How we build and maintain Kairos](https://www.youtube.com/watch?v=XD5nfMf59v4) - Mauro Morales, FOSDEM 2023
 - [Meet Kairos, an OSS project building the immutable Kubernetes edge](https://www.youtube.com/watch?v=kiDQujibz2k) - Ettore Di Giacinto and Nic Vermande
