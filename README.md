@@ -2,7 +2,7 @@
 
 [![](https://img.freepik.com/premium-photo/3d-illustration-atom-with-atom-computer-circuit-board-background_779834-6339.jpg)](https://images.app.goo.gl/S1xCGtUmMfXGr5N96)
 
-An awesome list of resources about operating system atomicity
+An awesome curated knowledge-base about atomic systems
 
 ## Introductory Blogs and Publications
 
