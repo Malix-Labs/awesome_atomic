@@ -66,13 +66,10 @@ The Future is Now™, try one of these today!
 - [EndlessOS](https://endlessos.com/home/) - A Debian derivative distribution with a read-only root filesystem managed by OSTree, and is Flatpak-only for application delivery and update. One of the easiest (but constraining) linux distribution
 - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
 	- [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure Chrome OS for PCs and Macs.
-- [carbonOS](https://carbon.sh/) - An open operating system designed from the ground-up to be intuitive and robust. The [blog post](https://carbon.sh/blog/2021-11-25-release.html) explains the goals
-- [AshOS](https://github.com/ashos/ashos) - The immutable tree-shaped meta-distribution.
 - [VanillaOS](https://vanillaos.org/) - Vanilla OS is a Debian Sid Linux-based Point Release distribution that receives updates at the right time without sacrificing security and functionality.
 - [Nitrux OS](https://nxos.org/) ([2.6.0](https://nxos.org/changelog/release-announcement-nitrux-2-6-0/)+) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
-- [AstOS](https://github.com/CuBeRJAN/astOS/tree/main) - An immutable distro based on Arch using btrfs snapshots.
 - [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS
 - [Arkane Linux](https://arkanelinux.org/) - Arch based immutable distro which uses [Arkdep](https://github.com/arkanelinux/arkdep)
 
@@ -90,10 +87,6 @@ Someone smarter please make a better definition.
 - [Distrobox](https://github.com/89luca89/distrobox) - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
 	- [BoxBuddy](https://flathub.org/apps/io.github.dvlv.boxbuddyrs) - A GUI manager for your Distroboxes, made with GTK4 and Libadwaita.
 - [devbox](https://github.com/jetpack-io/devbox) - Devbox is a command-line tool that lets you easily create isolated shells and containers.
-- [nsbox](https://github.com/refi64/nsbox) - Pet container manager based on systemd-nspawn and supporting DBus and desktop files.
-- [unbox](https://github.com/lopukhov/unbox) - New (a little bit experimental) implementation of a toolbox that does not rely on existing container engines like `podman` or `docker`, instead opting to use Linux namespaces directly to improve performance.
-- [coretoolbox](https://github.com/cgwalters/coretoolbox) - Toolbx alternative in rust with a focus on container builds. (Older project, appears unmaintained, but if I don't include rust stuff people will get upset :smiley:)
-- [folderbox](https://github.com/ahayzen/folderbox) - Folder based containers that isolate project environments with escapes to the host for development.
 - [apx](https://github.com/Vanilla-OS/apx) - The default package manager for VanillaOS, utilising Distrobox to manage containers for various distros on the user's behalf.
 
 ## Core Tools
@@ -103,7 +96,6 @@ Things that are the building blocks for all the stuff we're talking about here.
 - [podman](https://podman.io/) - Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
 	- [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) - This neat extension lets you see what containers you have, start/stop/restart, pause, and shell into them right from the notification area.
 	- [Podman Desktop](https://github.com/containers/podman-desktop) - Manage different container engines from a single UI and tray icon
-	- [Podman desktop companion](https://iongion.github.io/podman-desktop-companion/) - graphical management of your desktop containers
 	- [Pods](https://github.com/marhkb/pods) - a podman desktop application (formely known as Symfony)
 - [Flatpak](https://flatpak.org/) - a utility for software deployment and package management for Linux. It is advertised as offering a sandbox environment in which users can run application software in isolation from the rest of the system.
 
