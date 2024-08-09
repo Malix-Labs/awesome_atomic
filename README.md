@@ -93,7 +93,6 @@ Someone smarter please make a better definition.
 - [Distrobox](https://github.com/89luca89/distrobox) - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
 	- [BoxBuddy](https://flathub.org/apps/io.github.dvlv.boxbuddyrs) - A GUI manager for your Distroboxes, made with GTK4 and Libadwaita.
 - [devbox](https://github.com/jetpack-io/devbox) - Devbox is a command-line tool that lets you easily create isolated shells and containers.
-- [coretoolbox](https://github.com/cgwalters/coretoolbox) - Toolbx alternative in rust with a focus on container builds. (Older project, appears unmaintained, but if I don't include rust stuff people will get upset :smiley:)
 - [folderbox](https://github.com/ahayzen/folderbox) - Folder based containers that isolate project environments with escapes to the host for development.
 - [apx](https://github.com/Vanilla-OS/apx) - The default package manager for VanillaOS, utilising Distrobox to manage containers for various distros on the user's behalf.
 
