@@ -157,10 +157,6 @@ Here are some people walking through their setups:
 - [Schykle's Dell XPS 13 and Silverblue Setup](https://www.youtube.com/watch?v=CeiPUxLf-dQ)
 - [Jorge Castro's Desktop](https://www.youtube.com/watch?v=PM5exNztbXE)
 
-## Tips
-
-- [Using Automatic Updates on Fedora Silverblue](https://miabbott.github.io/2018/06/13/rpm-ostree-automatic-updates.html)
-
 ## Discussion
 
 - Reddit:
