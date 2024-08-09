@@ -131,7 +131,6 @@ aka. duct tape.
 - [Integrate VSCode and Distrobox](https://distrobox.privatedns.org/posts/integrate_vscode_distrobox.html)
 - [silverblue-nix](https://gitlab.com/ahayzen/silverblue-nix) - Andrew Hayzen's steps for getting nix working on Fedora Silverblue.
 - [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) -  Toolbox Visual Studio Code integration
-- [silverblue-tools](https://github.com/A6GibKm/silverblue-tools) - Collection of scripts for silverblue related technologies
 
 ## Configs from the Community
 
@@ -152,7 +151,6 @@ If you're automating the config on systems like this please PR your config to sh
 
 Here are some people walking through their setups:
 
-- [Schykle's Dell XPS 13 and Silverblue Setup](https://www.youtube.com/watch?v=CeiPUxLf-dQ)
 - [Jorge Castro's Desktop](https://www.youtube.com/watch?v=PM5exNztbXE)
 
 ## Discussion
