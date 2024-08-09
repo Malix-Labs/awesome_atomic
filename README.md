@@ -71,7 +71,6 @@ The Future is Now™, try one of these today!
 - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
 	- [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure Chrome OS for PCs and Macs.
 - [rlxos](https://rlxos.dev/) - A immutable, independent general-purpose distribution with a primary focus on single file per application.
-- [carbonOS](https://carbon.sh/) - An open operating system designed from the ground-up to be intuitive and robust. The [blog post](https://carbon.sh/blog/2021-11-25-release.html) explains the goals
 - [AshOS](https://github.com/ashos/ashos) - The immutable tree-shaped meta-distribution.
 - [VanillaOS](https://vanillaos.org/) - Vanilla OS is a Debian Sid Linux-based Point Release distribution that receives updates at the right time without sacrificing security and functionality.
 - [Nitrux OS](https://nxos.org/) ([2.6.0](https://nxos.org/changelog/release-announcement-nitrux-2-6-0/)+) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
