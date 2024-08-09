@@ -159,7 +159,6 @@ If you're automating the config on systems like this please PR your config to sh
 
 Here are some people walking through their setups:
 
-- [Schykle's Dell XPS 13 and Silverblue Setup](https://www.youtube.com/watch?v=CeiPUxLf-dQ)
 - [Jorge Castro's Desktop](https://www.youtube.com/watch?v=PM5exNztbXE)
 
 ## Tips
