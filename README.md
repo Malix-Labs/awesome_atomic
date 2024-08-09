@@ -89,7 +89,6 @@ Someone smarter please make a better definition.
 	- [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - Toolbx Tuner is a tool to improve the experience with toolbx.
 	- [Toolbx Images](https://github.com/toolbx-images/images) - Community maintained container images to use with toolbx  (Check these out if you need other distros outside the default Fedora ones)
 	- [toolbox-images](https://github.com/akdev1l/toolbox-images) - a collection of container images for usage with the toolbox command. This is an attempt at providing more feature parity with regard to toolboxes for distributions other than Fedora.
-	- [Toolbox GUI](https://github.com/Dvlv/toolbox-gui) - A graphical interface for interacting with Toolbox, written with GTK3 and Python
 - [Distrobox](https://github.com/89luca89/distrobox) - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
 	- [BoxBuddy](https://flathub.org/apps/io.github.dvlv.boxbuddyrs) - A GUI manager for your Distroboxes, made with GTK4 and Libadwaita.
 - [devbox](https://github.com/jetpack-io/devbox) - Devbox is a command-line tool that lets you easily create isolated shells and containers.
