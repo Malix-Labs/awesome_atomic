@@ -65,7 +65,7 @@ The Future is Now™, try one of these today!
 - [RDE](http://trop.in/rde/) - Developer and power user friendly GNU/Linux distribution based on GNU Guix functional package manager
 - [EndlessOS](https://endlessos.com/home/) - A Debian derivative distribution with a read-only root filesystem managed by OSTree, and is Flatpak-only for application delivery and update. One of the easiest (but constraining) linux distribution
 - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
-	- [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure Chrome OS for PCs and Macs.
+	- [ChromeOS (Flex)](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure operating system by Google. _flex is the non-chromebook version_
 - [VanillaOS](https://vanillaos.org/) - Vanilla OS is a Debian Sid Linux-based Point Release distribution that receives updates at the right time without sacrificing security and functionality.
 - [Nitrux](https://nxos.org/) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
