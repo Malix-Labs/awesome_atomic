@@ -149,6 +149,7 @@ Here are some people walking through their setups:
 
 - Reddit:
 	- [r/silverblue](https://www.reddit.com/r/silverblue/)
+  	- [r/vanillaos](https://www.reddit.com/r/vanillaos/)
 	- [r/NixOS](https://www.reddit.com/r/NixOS/)
 	- [r/flatpak](https://www.reddit.com/r/flatpak/)
 
