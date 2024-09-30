@@ -70,7 +70,7 @@ The Future is Now™, try one of these today!
 - [Nitrux](https://nxos.org/) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
-- [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS
+- [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS utilizing [frzr](https://github.com/ChimeraOS/frzr)
 - [Arkane Linux](https://arkanelinux.org/) - Arch based immutable distro which uses [Arkdep](https://github.com/arkanelinux/arkdep)
 
 ## Toolboxes
@@ -115,6 +115,7 @@ Most of us will not use these tools directly, but useful for developers:
 - [Elemental Toolkit](https://rancher.github.io/elemental-toolkit/) - A toolkit which allows container images to be bootable in VMs, baremetals, embedded devices, and much more. Elemental and derivatives share a common feature set, can be upgraded with a A/B mechanism, and upgrades are delivered with standard container registries.
 - [GoldBoot](https://github.com/fossable/goldboot) - a command-line utility that builds machine images for both servers and workstations alike.
 - [Arkdep](https://github.com/arkanelinux/arkdep) - Toolkit for building, deploying and maintaining immutable, atomic, btrfs-based systems
+- [frzr](https://github.com/ChimeraOS/frzr) - A deployment and automatic update mechanism for operating systems, utilizing pre-built read-only btrfs subvolumes.
 
 ## Integration Resources
 
