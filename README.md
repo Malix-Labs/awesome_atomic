@@ -107,7 +107,6 @@ Most of us will not use these tools directly, but useful for developers:
 	- [Upcoming experimental features in rpm-ostree](https://coreos.github.io/rpm-ostree/experimental/)
 	- [flatpak-ostree-dedup-stats.py](https://gist.github.com/powpingdone/001a46aa7db190b9c935f71c6091eb71) - script to show you how well the ostree deduplication is working, this one is neat
 	- [apt2ostree](https://github.com/stb-tester/apt2ostree) - apt2ostree is used for building Debian/Ubuntu based ostree images. It performs the same task as debootstrap/multistrap but the output is an ostree tree rather than a rootfs in a directory.
-- [Endless OSTree Builder](https://github.com/dbnicholson/deb-ostree-builder) - Stripped down Endless ostree builder for Debian
 - [Image Builder - osbuild](https://www.osbuild.org/) - Build Infrastructure for Operating Systems
 - [ABRoot](https://github.com/Vanilla-OS/ABRoot) - A utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.
 - [BootC](https://github.com/containers/bootc) - Transactional, in-place operating system updates using OCI/Docker container images. (Experimental)
